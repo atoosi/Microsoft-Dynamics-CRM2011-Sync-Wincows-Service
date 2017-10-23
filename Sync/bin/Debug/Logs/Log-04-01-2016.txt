@@ -1,0 +1,5 @@
+4/1/2016 10:19:10 AM: The Questnet to CRM windows service started
+4/1/2016 10:20:16 AM: message sent
+4/1/2016 10:20:16 AM: Microsoft Dynamics CRM version 5.0.9690.4376   Service Call ID: 8957Company NoQuest-INT
+4/1/2016 3:16:16 PM: message sent
+4/1/2016 3:16:16 PM: Microsoft Dynamics CRM version 5.0.9690.4376   Service Call ID: 8963Company NoQuest-INT

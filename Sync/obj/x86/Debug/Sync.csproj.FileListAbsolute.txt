@@ -1,0 +1,89 @@
+C:\Users\atoosi\Desktop\B1TOCRMSync\B1TOCRMSync\bin\Debug\Sync.exe.config
+C:\Users\atoosi\Desktop\B1TOCRMSync\B1TOCRMSync\obj\x86\Debug\Sync.csproj.ResolveComReference.cache
+C:\Users\atoosi\Desktop\B1TOCRMSync\B1TOCRMSync\bin\Debug\Sync.exe
+C:\Users\atoosi\Desktop\B1TOCRMSync\B1TOCRMSync\bin\Debug\Sync.pdb
+C:\Users\atoosi\Desktop\B1TOCRMSync\B1TOCRMSync\bin\Debug\EntityFramework.dll
+C:\Users\atoosi\Desktop\B1TOCRMSync\B1TOCRMSync\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\atoosi\Desktop\B1TOCRMSync\B1TOCRMSync\bin\Debug\EntityFramework.xml
+C:\Users\atoosi\Desktop\B1TOCRMSync\B1TOCRMSync\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\atoosi\Desktop\B1TOCRMSync\B1TOCRMSync\obj\x86\Debug\B1TOCRMSync.ProjectInstaller.resources
+C:\Users\atoosi\Desktop\B1TOCRMSync\B1TOCRMSync\obj\x86\Debug\Sync.csproj.GenerateResource.Cache
+C:\Users\atoosi\Desktop\B1TOCRMSync\B1TOCRMSync\obj\x86\Debug\Sync.exe
+C:\Users\atoosi\Desktop\B1TOCRMSync\B1TOCRMSync\obj\x86\Debug\Sync.pdb
+C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe.config
+C:\Users\atoosi\Desktop\Sync\Sync\obj\x86\Debug\Sync.csproj.ResolveComReference.cache
+C:\Users\atoosi\Desktop\Sync\Sync\obj\x86\Debug\Sync.csproj.GenerateResource.Cache
+C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe
+C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.pdb
+C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\EntityFramework.dll
+C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\EntityFramework.xml
+C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\atoosi\Desktop\Sync\Sync\obj\x86\Debug\Sync.ProjectInstaller.resources
+C:\Users\atoosi\Desktop\Sync\Sync\obj\x86\Debug\Sync.exe
+C:\Users\atoosi\Desktop\Sync\Sync\obj\x86\Debug\Sync.pdb
+C:\Users\atoosi\Desktop\Sync\Sync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+F:\MyProjects\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\Sync.exe.config
+F:\MyProjects\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.csproj.ResolveComReference.cache
+F:\MyProjects\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.exe
+F:\MyProjects\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.pdb
+F:\MyProjects\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\Sync.exe
+F:\MyProjects\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\Sync.pdb
+F:\MyProjects\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\EntityFramework.dll
+F:\MyProjects\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\EntityFramework.SqlServer.dll
+F:\MyProjects\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\EntityFramework.xml
+F:\MyProjects\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\EntityFramework.SqlServer.xml
+F:\MyProjects\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.ProjectInstaller.resources
+F:\MyProjects\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.csproj.GenerateResource.Cache
+F:\MyProjects\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.csprojResolveAssemblyReference.cache
+C:\Users\atoosi\Desktop\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\Sync.exe.config
+C:\Users\atoosi\Desktop\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.csproj.ResolveComReference.cache
+C:\Users\atoosi\Desktop\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.exe
+C:\Users\atoosi\Desktop\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.pdb
+C:\Users\atoosi\Desktop\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\Sync.exe
+C:\Users\atoosi\Desktop\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\Sync.pdb
+C:\Users\atoosi\Desktop\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\EntityFramework.dll
+C:\Users\atoosi\Desktop\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\atoosi\Desktop\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\EntityFramework.xml
+C:\Users\atoosi\Desktop\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\atoosi\Desktop\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.ProjectInstaller.resources
+C:\Users\atoosi\Desktop\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.csproj.GenerateResource.Cache
+F:\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\Sync.exe.config
+F:\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.csproj.ResolveComReference.cache
+F:\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.exe
+F:\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.pdb
+F:\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\Sync.exe
+F:\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\Sync.pdb
+F:\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\EntityFramework.dll
+F:\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\EntityFramework.SqlServer.dll
+F:\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\EntityFramework.xml
+F:\SyncQuestnetCrmSap\Sync-windows service\Sync\bin\Debug\EntityFramework.SqlServer.xml
+F:\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.csprojResolveAssemblyReference.cache
+F:\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.ProjectInstaller.resources
+F:\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.csproj.GenerateResource.Cache
+C:\Users\atoosi\Desktop\SyncQuestnetCrmSap\Sync-windows service\Sync\obj\x86\Debug\Sync.csprojResolveAssemblyReference.cache
+C:\Ali\Sync-windows service\Sync\bin\Debug\Sync.exe.config
+C:\Ali\Sync-windows service\Sync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Ali\Sync-windows service\Sync\obj\x86\Debug\Sync.csproj.ResolveComReference.cache
+C:\Ali\Sync-windows service\Sync\obj\x86\Debug\Sync.exe
+C:\Ali\Sync-windows service\Sync\obj\x86\Debug\Sync.pdb
+C:\Ali\Sync-windows service\Sync\bin\Debug\Sync.exe
+C:\Ali\Sync-windows service\Sync\bin\Debug\Sync.pdb
+C:\Ali\Sync-windows service\Sync\bin\Debug\B1DIEventsService.dll
+C:\Ali\Sync-windows service\Sync\bin\Debug\EntityFramework.dll
+C:\Ali\Sync-windows service\Sync\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ali\Sync-windows service\Sync\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Ali\Sync-windows service\Sync\bin\Debug\EntityFramework.xml
+C:\Ali\Sync-windows service\Sync\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ali\Sync-windows service\Sync\obj\x86\Debug\Sync.ProjectInstaller.resources
+C:\Ali\Sync-windows service\Sync\obj\x86\Debug\Sync.csproj.GenerateResource.Cache
+C:\Ali\Sync-windows service\Sync\obj\x86\Debug\Sync.csprojResolveAssemblyReference.cache
+C:\D Drive\source code\CRM\Full project for crm case control\Sync-windows service\Sync\bin\Debug\Sync.exe.config
+C:\D Drive\source code\CRM\Full project for crm case control\Sync-windows service\Sync\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\D Drive\source code\CRM\Full project for crm case control\Sync-windows service\Sync\obj\x86\Debug\Sync.csproj.ResolveComReference.cache
+C:\D Drive\source code\CRM\Full project for crm case control\Sync-windows service\Sync\obj\x86\Debug\Sync.exe
+C:\D Drive\source code\CRM\Full project for crm case control\Sync-windows service\Sync\obj\x86\Debug\Sync.pdb
+D:\Presentation\Microsoft CRM\CRM\CRM\Full project for crm case control\Sync-windows service\Sync\bin\Debug\Sync.exe.config
+D:\Presentation\Microsoft CRM\CRM\CRM\Full project for crm case control\Sync-windows service\Sync\obj\x86\Debug\Sync.csproj.ResolveComReference.cache
+D:\Presentation\Microsoft CRM\CRM\CRM\Full project for crm case control\Sync-windows service\Sync\obj\x86\Debug\Sync.exe
+D:\Presentation\Microsoft CRM\CRM\CRM\Full project for crm case control\Sync-windows service\Sync\obj\x86\Debug\Sync.pdb

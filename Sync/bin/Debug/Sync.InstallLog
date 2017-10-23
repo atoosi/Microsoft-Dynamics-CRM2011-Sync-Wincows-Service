@@ -1,0 +1,120 @@
+﻿Installing assembly 'C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.InstallLog
+   assemblypath = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe
+Installing service Sync...
+Service Sync has been successfully installed.
+Creating EventLog source Sync in log Application...
+Committing assembly 'C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.InstallLog
+   assemblypath = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe
+Uninstalling assembly 'C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.InstallLog
+   assemblypath = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe
+Removing EventLog source Sync.
+Service Sync is being removed from the system...
+Service Sync was successfully removed from the system.
+Installing assembly 'C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.InstallLog
+   assemblypath = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe
+Installing service Sync...
+Service Sync has been successfully installed.
+Creating EventLog source Sync in log Application...
+Committing assembly 'C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.InstallLog
+   assemblypath = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe
+Uninstalling assembly 'C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.InstallLog
+   assemblypath = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe
+Removing EventLog source Sync.
+Service Sync is being removed from the system...
+Service Sync was successfully removed from the system.
+Attempt to stop service Sync.
+Installing assembly 'C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.InstallLog
+   assemblypath = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe
+Installing service Sync...
+Service Sync has been successfully installed.
+Creating EventLog source Sync in log Application...
+Committing assembly 'C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.InstallLog
+   assemblypath = C:\Users\atoosi\Desktop\Sync\Sync\bin\Debug\Sync.exe
+Installing assembly 'C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.InstallLog
+   assemblypath = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe
+Installing service Sync...
+Service Sync has been successfully installed.
+Creating EventLog source Sync in log Application...
+Committing assembly 'C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.InstallLog
+   assemblypath = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe
+Uninstalling assembly 'C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.InstallLog
+   assemblypath = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe
+Removing EventLog source Sync.
+Service Sync is being removed from the system...
+Service Sync was successfully removed from the system.
+Installing assembly 'C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.InstallLog
+   assemblypath = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe
+Installing service Sync...
+Service Sync has been successfully installed.
+Creating EventLog source Sync in log Application...
+Committing assembly 'C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.InstallLog
+   assemblypath = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe
+Uninstalling assembly 'C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.InstallLog
+   assemblypath = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe
+Removing EventLog source Sync.
+Service Sync is being removed from the system...
+Service Sync was successfully removed from the system.
+Attempt to stop service Sync.
+Installing assembly 'C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.InstallLog
+   assemblypath = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe
+Installing service Sync...
+Service Sync has been successfully installed.
+Creating EventLog source Sync in log Application...
+Committing assembly 'C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.InstallLog
+   assemblypath = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe
+Uninstalling assembly 'C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.InstallLog
+   assemblypath = C:\Ali\Sync-windows service\Sync\bin\Debug\sync.exe
+Removing EventLog source Sync.
+Service Sync is being removed from the system...
+Service Sync was successfully removed from the system.
